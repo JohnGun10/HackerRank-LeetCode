@@ -13,3 +13,4 @@ if __name__ == '__main__':
     Sol = Solution()
     Solve = Sol.isSameAfterReversals(536)  # for 1800 - false, for 0 - true, for 536 - true, 10 - false
     print(Solve)
+    
